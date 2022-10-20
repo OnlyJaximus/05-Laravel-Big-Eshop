@@ -1,2 +1,2 @@
 # 05-Laravel-Eshop-Big
-In this task, I made a separate dashboard for admin and user. The shop allows you to order products, change, delete, rate, leave comments about the product, search, change the delivery status and much more. I used laravel, js, bootstrap...
+In this task, I made a separate dashboard for admin and users. The shop allows you to order products, change, delete, rate, leave comments about the product, search, change the delivery status and much more. As an admin, you can create a category, products, delete it, change it. See all registered users, automatic data filling for sending products, order history... I used laravel, js, ajax, bootstrap.

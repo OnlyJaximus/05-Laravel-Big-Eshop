@@ -1,5 +1,5 @@
 # 05-Laravel-Eshop-Big
-Laravel ecommerce is built in laravel and MySQL database for the backend. It has different features for the user like a user can view all the category, select a product and select the quantity and add the product to his cart. The user can add multiple products in cart and wishlist. One COD payment option - Cash on delivery.
+Laravel ecommerce is built in Laravel and MySQL database for the backend. It has different features for the user like a user can view all the category, select a product and select the quantity and add the product to his cart. The user can add multiple products in cart and wishlist. One COD payment option - Cash on delivery.
 
 Customer Side:
 1- Login and Register

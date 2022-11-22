@@ -13,7 +13,7 @@ Customer Side:
 9- User can edit and update his ratings and reviews
 
 Admin Side: 
-1- Category 
+1- Category CRUD 
 2- Product CRUD
 3- Update Order status
 4 -View registered users
